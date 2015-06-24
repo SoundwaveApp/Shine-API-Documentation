@@ -14,4 +14,4 @@ The Soundwave Shine API allows anyone to return listening information on their u
 
 ### Get an API Key
 
-You will need to apply for a key before authenticating with the API. There will be at least one API Key per platform (iOS & Android). Currently these applicatio keys are given out on an ad-hoc basis by Soundwave. Please contact Soundwave if you have not received your key or would like to enquire about receiving a key.
+You will need to apply for a key before authenticating with the API. There will be at least one API Key per platform (iOS & Android). Currently these application keys are given out on an ad-hoc basis by Soundwave. Please contact Soundwave if you have not received your key or would like to enquire about receiving a key.
